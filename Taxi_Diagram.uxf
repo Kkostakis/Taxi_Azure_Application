@@ -1,42 +1,42 @@
-<diagram program="umletino" version="15.1"><zoom_level>11</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLUseCase</id><coordinates><x>473</x><y>122</y><w>176</w><h>77</h></coordinates><panel_attributes>Blob Storage
-bg=blue</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>880</x><y>122</y><w>165</w><h>77</h></coordinates><panel_attributes>lt=.
+<diagram program="umletino" version="15.1"><zoom_level>8</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLUseCase</id><coordinates><x>448</x><y>80</y><w>128</w><h>56</h></coordinates><panel_attributes>Blob Storage
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>744</x><y>80</y><w>120</w><h>56</h></coordinates><panel_attributes>lt=.
 CSV Files
 fg=white
-bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>462</x><y>342</y><w>209</w><h>110</h></coordinates><panel_attributes>bg=green
-Container - Instance/Service</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>264</x><y>122</y><w>220</w><h>44</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Sends to&gt;&gt;</panel_attributes><additional_attributes>10;20;180;20</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>66</x><y>342</y><w>209</w><h>99</h></coordinates><panel_attributes>lt=.
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>440</x><y>240</y><w>152</w><h>80</h></coordinates><panel_attributes>bg=green
+Container - Instance/Service</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>296</x><y>80</y><w>160</w><h>32</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Sends to&gt;&gt;</panel_attributes><additional_attributes>10;20;180;20</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>152</x><y>240</y><w>152</w><h>72</h></coordinates><panel_attributes>lt=.
 
 Azure Stream Analytics
 fg=yellow
 bg=orange
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>462</x><y>595</y><w>209</w><h>121</h></coordinates><panel_attributes>Azure Cache For Redis
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>440</x><y>424</y><w>152</w><h>88</h></coordinates><panel_attributes>Azure Cache For Redis
 bg=magenta
-fg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>946</x><y>342</y><w>66</w><h>121</h></coordinates><panel_attributes>Admin</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>682</x><y>375</y><w>286</w><h>44</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Triggers&gt;&gt;</panel_attributes><additional_attributes>10;20;240;20</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>77</x><y>122</y><w>187</w><h>77</h></coordinates><panel_attributes>lt=.
+fg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>792</x><y>240</y><w>48</w><h>88</h></coordinates><panel_attributes>Admin</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>584</x><y>128</y><w>224</w><h>168</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Triggers&gt;&gt;</panel_attributes><additional_attributes>10;10;260;190</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>160</x><y>80</y><w>136</w><h>56</h></coordinates><panel_attributes>lt=.
 Azure Function - 
 Cleaning CSV
 fg=yellow
-bg=red</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>264</x><y>155</y><w>220</w><h>44</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Saved to&gt;&gt;</panel_attributes><additional_attributes>180;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>199</y><w>99</w><h>154</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Sends to&gt;&gt;</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>660</x><y>133</y><w>220</w><h>44</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Stored to&gt;&gt;</panel_attributes><additional_attributes>10;20;180;20</additional_attributes></element><element><id>Relation</id><coordinates><x>264</x><y>188</y><w>242</w><h>187</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Batches&gt;&gt;</panel_attributes><additional_attributes>10;150;200;10</additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>452</y><w>88</w><h>154</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Cached&gt;&gt;</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>242</x><y>430</y><w>242</w><h>209</h></coordinates><panel_attributes>lt=&lt;&lt;.
-&lt;&lt;Cached&gt;&gt;</panel_attributes><additional_attributes>200;170;10;10</additional_attributes></element><element><id>UMLPackage</id><coordinates><x>44</x><y>67</y><w>1067</w><h>187</h></coordinates><panel_attributes>Layer#1
+bg=red</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>296</x><y>104</y><w>160</w><h>32</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Saved to&gt;&gt;</panel_attributes><additional_attributes>180;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>504</x><y>136</y><w>72</w><h>112</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Sends to&gt;&gt;</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>584</x><y>88</y><w>160</w><h>32</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Stored to&gt;&gt;</panel_attributes><additional_attributes>10;20;180;20</additional_attributes></element><element><id>Relation</id><coordinates><x>296</x><y>128</y><w>176</w><h>136</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Batches&gt;&gt;</panel_attributes><additional_attributes>10;150;200;10</additional_attributes></element><element><id>Relation</id><coordinates><x>504</x><y>320</y><w>64</w><h>112</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Cached&gt;&gt;</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>304</y><w>176</w><h>152</h></coordinates><panel_attributes>lt=&lt;&lt;.
+&lt;&lt;Cached&gt;&gt;</panel_attributes><additional_attributes>200;170;10;10</additional_attributes></element><element><id>UMLPackage</id><coordinates><x>136</x><y>40</y><w>776</w><h>136</h></coordinates><panel_attributes>Layer#1
 --
 bg=blue
 layer=-2
 
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>44</x><y>287</y><w>1067</w><h>187</h></coordinates><panel_attributes>Layer#2
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>136</x><y>200</y><w>776</w><h>136</h></coordinates><panel_attributes>Layer#2
 --
 bg=blue
 layer=-2
 
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>44</x><y>551</y><w>1067</w><h>187</h></coordinates><panel_attributes>Layer#3
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>136</x><y>392</y><w>776</w><h>136</h></coordinates><panel_attributes>Layer#3
 --
 bg=blue
 layer=-2
 
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>22</x><y>12</y><w>1122</w><h>748</h></coordinates><panel_attributes>Azure_Application_Taxi_Schema
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>120</x><y>0</y><w>816</w><h>544</h></coordinates><panel_attributes>Azure_Application_Taxi_Schema
 --
 </panel_attributes><additional_attributes></additional_attributes></element></diagram>
